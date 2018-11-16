@@ -35,7 +35,7 @@
  *	0.99: Added comments to code for readability
  */
 metadata {
-	definition (name: "Qubino On Off Thermostatx", namespace: "Goap", author: "Kristjan Jamšek") {
+	definition (name: "Qubino On Off Thermostat", namespace: "Goap", author: "Kristjan Jamšek") {
 		capability "Thermostat"					// - Thermostat capability tag
 		capability "Thermostat Mode"			// - Thermostat Mode capability flag
 		capability "Thermostat Setpoint"		// - Thermostat Setpoint capability flag
